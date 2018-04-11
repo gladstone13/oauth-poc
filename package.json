@@ -1,0 +1,28 @@
+{
+  "name": "oauth-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gladstone13/oauth-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gladstone13/oauth-poc/issues"
+  },
+  "homepage": "https://github.com/gladstone13/oauth-poc#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6",
+    "mongoose": "^5.0.14",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}
